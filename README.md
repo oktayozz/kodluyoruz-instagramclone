@@ -1,0 +1,2 @@
+# kodluyoruz-instagramclone
+Patika Ödev
